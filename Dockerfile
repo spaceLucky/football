@@ -1,4 +1,7 @@
 2. Fix: Docker
+creating a merge conflict
+nenenene
+>>>>>>> feature-abc-13
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 ARG DEVICE
